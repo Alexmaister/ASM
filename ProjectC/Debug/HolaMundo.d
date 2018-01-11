@@ -1,0 +1,1 @@
+HolaMundo.o: ../HolaMundo.c
